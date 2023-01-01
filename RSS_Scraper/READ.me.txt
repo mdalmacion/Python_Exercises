@@ -1,0 +1,5 @@
+1. Install Pip
+2. Install the following packages: 
+ -BeautifulSoup
+ -lxml
+ -Requests
